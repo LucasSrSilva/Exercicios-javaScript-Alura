@@ -2,3 +2,4 @@
 * text=auto
 *.* linguist-vendored
 *.CSS linguist-vendored=false
+*.JavaScript linguist-detectable=true
